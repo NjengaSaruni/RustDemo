@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LearnRust.iml" filepath="$PROJECT_DIR$/.idea/LearnRust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../LeetCode/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/../../LeetCode/.idea/LeetCode.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/RiverLearn/angular-cli-portal/.idea/angular-cli-portal.iml" filepath="$USER_HOME$/WebstormProjects/RiverLearn/angular-cli-portal/.idea/angular-cli-portal.iml" />
     </modules>
   </component>
 </project>
